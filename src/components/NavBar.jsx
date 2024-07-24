@@ -10,7 +10,7 @@ const NavBar = () => {
           </Link>
         </li>
         <li style={styles.navItem}>
-          <Link to="/login" style={styles.navLink}>
+          <Link to="/login" style={styles.navLink }>
             Login
           </Link>
         </li>
